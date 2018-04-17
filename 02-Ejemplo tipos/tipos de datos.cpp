@@ -1,3 +1,9 @@
+//tipo de datos
+//Muestra tipos de datos vistos
+//Alexis Fraga
+//17.04.2018
+
+
 #include <iostream>
 #include <cassert>
 #include <string.h>
