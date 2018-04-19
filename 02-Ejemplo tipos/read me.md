@@ -22,4 +22,4 @@ Si el valor es distinto al establecido cerrar el programa.
 
 
 
-Otros tipos de datos vistos con los datos binarios.
+Otros tipos de datos vistos son los datos binarios.
