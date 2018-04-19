@@ -18,3 +18,8 @@ Declarar las variables con sus datos constantes.
 
 Si el valor es distinto al establecido cerrar el programa.
 
+
+
+
+
+Otros tipos de datos vistos con los datos binarios.
